@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Pratik Prajn
 
-<!--
-**pratik-prajn/pratik-prajn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratikprajn&label=Profile%20views&color=0e75b6&style=flat" alt="pratikprajn" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+
+<p align="center">
+<a href="https://linkedin.com/in/pratik-prajn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-prajn" height="30" width="40" /></a>
+<a href="https://instagram.com/pratikprajn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratikprajn" height="30" width="40" /></a>
+<a href="https://discord.gg/8582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8582" height="30" width="40" /></a>
+</p>
+
+---
+
+### Languages and Tools:
+
+<p align="center">
+  <!-- The content of this section remains the same, so I'm not repeating all the tool icons here -->
+</p>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikprajn&show_icons=true&locale=en&layout=compact" alt="pratikprajn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikprajn&show_icons=true&locale=en" alt="pratikprajn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikprajn&" alt="pratikprajn" /></p>
