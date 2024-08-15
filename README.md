@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a 3rd year student at IIT Indore<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+I'm Pratik Prajn, a third-year student at IIT Indore with a passion for competitive programming and problem-solving. When I'm not immersed in code, you'll find me on the football field, where I channel my competitive spirit into teamwork and strategy.<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <br>
 <br>
 <br>
