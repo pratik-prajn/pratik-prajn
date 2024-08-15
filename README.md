@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Pratik Praj  from IIT Indore</h2>
+<h2 align="center">Hi 👋! My name is Pratik Prajn  from IIT Indore</h2>
 
 ###
 
@@ -41,13 +41,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pratik-prajn/pratik-prajn/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/pratik-prajn/count.svg?"  />
