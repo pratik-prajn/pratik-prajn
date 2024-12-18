@@ -25,6 +25,7 @@ I'm Pratik Prajn, a third-year student at IIT Indore with a passion for competit
 ###
 
 
+  ![snake gif](https://github.com/shayan-cyber/shayan-cyber/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
